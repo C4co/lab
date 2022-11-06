@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^5.0.1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
